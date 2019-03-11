@@ -36,6 +36,8 @@ Always controller c[0] is used as remote controller since it takes all connectio
 
 Run the scripts as per the tutorial and now you have a network setup with a working firewall :) <br/>
 
+### To generate a network with random link and host parameters.. use the random_var_topogen.py script <br/>
+
 
 
 
